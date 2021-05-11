@@ -1,0 +1,10 @@
+---
+title: "CLEANED – Validation Workshop  Pork Value Chain Uganda"
+author: "Jessica Mukiri"
+output: html_document
+---
+
+Slide presentation 
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRbbMM3PFd7K7bgsQhDSmQZehTKCEK9u4fvbb3I5RQUrtCT-OiHANqhhRiuJcxyoT-yNW6NElnNgYo8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-external="1"></iframe>
+
