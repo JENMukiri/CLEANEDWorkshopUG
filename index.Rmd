@@ -1,7 +1,5 @@
 ---
 title: "CLEANED – Validation Workshop  Pork Value Chain Uganda"
-author: "Jessica Mukiri"
-output: html_document
 ---
 
 Slide presentation 
