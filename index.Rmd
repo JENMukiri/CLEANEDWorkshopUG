@@ -1,8 +1,12 @@
 ---
-title: "CLEANED – Validation Workshop  Pork Value Chain Uganda"
+title: "CLEANED – Validation Workshops"
 ---
 
-Slide presentation 
+## Slide presentation: Uganda Workshop  
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRbbMM3PFd7K7bgsQhDSmQZehTKCEK9u4fvbb3I5RQUrtCT-OiHANqhhRiuJcxyoT-yNW6NElnNgYo8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-external="1"></iframe>
 
+
+## Slide presentation: Tanzania Workshop 
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTLrA1rLFp7KEYBEOpHImGnVC6SQOm9OIKz_GZbcBH8yToqEmgTB3HjiXor-JH9xePvoYiGQ88rg8g7/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
